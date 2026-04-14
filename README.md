@@ -93,8 +93,3 @@ Real-time analytics integration
 
 Shivansh Singh
 B.Tech CSE | Aspiring Data Analyst
-
-⚠️ Important Notes
-Make sure your image is named exactly: dashboard.png
-Place it in the root folder of your repository
-Otherwise, GitHub won’t display it
