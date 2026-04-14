@@ -59,36 +59,8 @@ Revenue is concentrated in specific customer segments
 📦 Prioritize Clothing & Accessories inventory
 ⭐ Promote high-rated products for better conversion
 💸 Optimize discount usage to maintain profit margins
-📂 Project Structure
-Customer-Behavior-Analysis/
-│
-├── data/                  # Dataset files
-├── notebooks/             # Jupyter Notebook
-├── dashboard.png          # Dashboard image
-└── README.md
-▶️ How to Run the Project
-# Clone the repository
-git clone https://github.com/your-username/Customer-Behavior-Analysis.git
 
-# Navigate into the project
-cd Customer-Behavior-Analysis
 
-# Install required libraries
-pip install pandas numpy matplotlib seaborn
-
-# Run Jupyter Notebook
-jupyter notebook
-📈 Skills Demonstrated
-Data Cleaning & Preprocessing
-Exploratory Data Analysis (EDA)
-Data Visualization
-Business Insight Generation
-Analytical Thinking
-🔮 Future Improvements
-Customer segmentation using RFM analysis
-Predictive modeling using Machine Learning
-Interactive dashboard using Power BI / Tableau
-Real-time analytics integration
 👨‍💻 Author
 
 Shivansh Singh
