@@ -1,5 +1,5 @@
 📊 Customer Behavior Analysis
-<p align="center"> <img src="dashboard.png" width="900"/> </p>
+<p align="center"> <img src="Dashboard.png" width="900"/> </p>
 🚀 Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on customer shopping data to uncover patterns in purchasing behavior, customer demographics, and revenue distribution.
